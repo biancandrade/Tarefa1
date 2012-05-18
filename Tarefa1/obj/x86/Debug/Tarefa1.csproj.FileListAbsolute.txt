@@ -1,0 +1,9 @@
+c:\users\bianca\documents\visual studio 2010\Projects\Tarefa1\Tarefa1\bin\Debug\Tarefa1.exe
+c:\users\bianca\documents\visual studio 2010\Projects\Tarefa1\Tarefa1\bin\Debug\Tarefa1.pdb
+c:\users\bianca\documents\visual studio 2010\Projects\Tarefa1\Tarefa1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bianca\documents\visual studio 2010\Projects\Tarefa1\Tarefa1\obj\x86\Debug\Tarefa1.Form1.resources
+c:\users\bianca\documents\visual studio 2010\Projects\Tarefa1\Tarefa1\obj\x86\Debug\Tarefa1.Properties.Resources.resources
+c:\users\bianca\documents\visual studio 2010\Projects\Tarefa1\Tarefa1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\bianca\documents\visual studio 2010\Projects\Tarefa1\Tarefa1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\bianca\documents\visual studio 2010\Projects\Tarefa1\Tarefa1\obj\x86\Debug\Tarefa1.exe
+c:\users\bianca\documents\visual studio 2010\Projects\Tarefa1\Tarefa1\obj\x86\Debug\Tarefa1.pdb
